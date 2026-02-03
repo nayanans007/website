@@ -7,7 +7,7 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Nayana Sheelavant',
-    title: 'Bsc Economics with Data Science',
+    title: 'Bsc Economics with Data Science | Student at Christ University, BRC ',
     image: getAsset('images/profile.jpeg'), // Customize or replace with your profile image
     description:
       'Motivated economics undergraduate with strong interests in public speaking, media, storytelling, and social impact. \n' +
