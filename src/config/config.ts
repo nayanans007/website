@@ -7,22 +7,22 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Nayana Sheelavant',
-    title: 'Your Title | Your Role',
+    title: 'Bsc Economics with Data Science',
     image: getAsset('images/profile.jpeg'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'Motivated economics undergraduate with strong interests in public speaking, media, storytelling, and social impact. \n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'Skills : Data Analysis, Graphic Design, Digital Content Production (Photography, Videography, Editing).\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      'Certifications : \n McKinsey.org Forward Program - McKinsey & Company (Dec 2025) \n Graphic Design Essentials - Canva (Dec 2025) \n Marketing with Canva - Canva (Oct 2025).\n' +
       '\n' +
-      'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+      '',
+    tagline: 'Exploring Economics | Driven by Creativity, Inspired by Fiction & Music',
+    location: 'Bengaluru, India',
   },
 
   seo: {
-    title: 'Your Name – Your Title',
+    title: 'Nayana Sheelavant - Portfolio',
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
@@ -148,11 +148,8 @@ const siteConfig = {
   ],
 
   contact: {
-    email: 'your.email@example.com',
-    linkedin: 'https://www.linkedin.com/in/your-linkedin/',
-    github: 'https://github.com/your-username',
-    googleScholar: 'https://scholar.google.com/citations?user=YOURID',
-    orcid: 'https://orcid.org/0000-0000-0000-0000',
+    email: 'nayana.sheelavant7272@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/nayanasheelavant/',
   },
 };
 
